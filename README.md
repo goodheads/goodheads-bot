@@ -1,7 +1,7 @@
 
 # MyBot
 
-MyBot is a chat bot built on the [Hubot][hubot] framework to return Developer Information
+MyBot is a chat bot built on the Hubot framework to return Developer Information
 
 ### Running MyBot Locally
 
